@@ -1,0 +1,10 @@
+**I want you to act as an analogy reasoner:**
+I will provide you with some commonsense knowledge in the form of "event a ==> event b".
+You should learn the reasoning patterns from these demonstrations.
+Then, based on these learned patterns, you will answer my query.
+
+**demonstrations:**
+{% for demo in demos %}{{ demo[0] }} ==> {{ demo[1] }}
+{% endfor %}
+**Based on the above demonstrations, please answer the following query using the learned reasoning patterns:**
+{{ query }} ==> {# need a space #}
