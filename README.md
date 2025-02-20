@@ -1,7 +1,7 @@
 
 # Improving Event Representation Learning via Generating and Utilizing Synthetic Data
 
-We are pleased to release the official implementation of our paper titled "Improving Event Representation Learning via Generating and Utilizing Synthetic Data", which was submitted to the journal of Information Processing & Management.
+We are pleased to release the official implementation of our paper titled "Improving Event Representation Learning via Generating and Utilizing Synthetic Data", which was submitted to the journal of *Information Processing & Management*.
 
 ## News
 
@@ -70,6 +70,7 @@ The code is developed based on [SWCC](https://github.com/imgaojun/SWCC4Event). W
 
 ### Citation
 
+```latex
 @article{feng2025improving,
   title = {Improving event representation learning via generating and utilizing synthetic data},
   author = {Yubo Feng and Lishuang Li and Xueyang Qin and Beibei Zhang},
@@ -82,3 +83,4 @@ The code is developed based on [SWCC](https://github.com/imgaojun/SWCC4Event). W
   doi = {https://doi.org/10.1016/j.ipm.2025.104083},
   url = {https://www.sciencedirect.com/science/article/pii/S0306457325000251},
 }
+```
